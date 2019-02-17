@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Deploy",
+    "Width": 300,
+    "Color": "lightskyblue",
+    "FontName": "Arial Rounded MT Bold",
+    "FontSize":  30
+  },
+  {
+    "Name": "Test",
+    "Width": 300,
+    "Color": "lightseagreen",
+    "FontName": "Arial Rounded MT Bold",
+    "FontSize": 30
+  }
+]
